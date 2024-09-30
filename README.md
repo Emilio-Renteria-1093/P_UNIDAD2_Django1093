@@ -8,7 +8,7 @@ configuraciones básicas para trabajar con el frameworb de Django
 - 3 ABRIR TERMINAL DE VSC
 - 4 VERIFICAR QUE ESTE PYTHON Y SU VERCION EN TERNINAL  (python --version) Python 3.12.5
 - 5 link de Django: https --> [code.visualstudio.com/docs/python/tutorial-django](https://code.visualstudio.com/docs/python/tutorial-django)
-- 6 CREAR EL ENTORNO DE TRABAJO -->  python -3 -m venv .venv
+- 6 CREAR EL ENTORNO DE TRABAJO -->  py -3 -m venv .venv
 - 7 ACTIVAR EL ENTORNO DE TRABAJO --> .venv\scripts\activate.bat
 - 8 SELECCIONAR EL INTERPRETE --> "PRECIONAR F1"
 - 9 ACTUALIZAR PIP --> python -m pip install --upgrade pip
